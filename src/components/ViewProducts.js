@@ -97,10 +97,11 @@ function ViewProducts() {
             </div>
           );
         })}
-        <p className="text-center m-5 font-weight-bold">
+        
+      </div>
+<p className="text-center m-5 font-weight-bold">
           All right reserved &copy;
         </p>
-      </div>
     </>
   );
 }
